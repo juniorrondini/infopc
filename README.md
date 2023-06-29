@@ -10,19 +10,19 @@ Ou copiar os dados do _infopc.bat_ e colar em um txt e salvar como .bat
 # Informações trazidas
 
 Ao executar o .bat você tem o retorno no CMD dessas informações e em sequencia ele cria um TXT na area de trabalho com essas informações nomeada de inforpc.txt
------------------------------- 
+
 Servidores DNS configurados 
------------------------------- 
+ 
 Servidor DNS: 000.0.00.00 
  
------------------------------- 
+ 
 Servidores DNS configurados 
------------------------------- 
+ 
 Servidor DNS: 0.0.0.0
  
------------------------------- 
+
 Informações de Rede 
------------------------------- 
+
 Nome do usuário: Exemplo 
 Nome da máquina: Exemplo 
 Endereço IP configurado: 192.168.1.1
@@ -49,17 +49,17 @@ Information provided
 When you run the .bat file, you will get the following information displayed in the CMD window, and it will also create a TXT file on the desktop named inforpc.txt.
 
 Configured DNS Servers
-------------------------------
+
 DNS Server: 000.0.00.00
-------------------------------
+
 
 Configured DNS Servers
-------------------------------
+
 DNS Server: 0.0.0.0
-------------------------------
+
 
 Network Information
-------------------------------
+
 User Name: Example
 Machine Name: Example
 Configured IP Address: 192.168.1.1
