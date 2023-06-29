@@ -23,9 +23,12 @@ Servidor DNS: 0.0.0.0
 
 Informações de Rede 
 
-Nome do usuário: Exemplo 
+Nome do usuário: Exemplo
+
 Nome da máquina: Exemplo 
+
 Endereço IP configurado: 192.168.1.1
+
 Gateway padrão: 192.168.1.1 
 
 # Utilidade
@@ -40,7 +43,7 @@ espero que seja util. Obrigado!
 # infopc
 Batch script to retrieve basic machine information: machine name, user, IP, configured gateway, and DNS.
 
-#How to use
+# How to use
 
 Download the file and run it as an administrator
 Or copy the data from infopc.bat and paste it into a text file, then save it as .bat.
@@ -62,8 +65,11 @@ DNS Server: 0.0.0.0
 Network Information
 
 User Name: Example
+
 Machine Name: Example
+
 Configured IP Address: 192.168.1.1
+
 Default Gateway: 192.168.1.1
 
 # Purpose
