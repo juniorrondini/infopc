@@ -45,7 +45,8 @@ Batch script to retrieve basic machine information: machine name, user, IP, conf
 Download the file and run it as an administrator
 Or copy the data from infopc.bat and paste it into a text file, then save it as .bat.
 
-Information provided
+# Information provided
+
 When you run the .bat file, you will get the following information displayed in the CMD window, and it will also create a TXT file on the desktop named inforpc.txt.
 
 Configured DNS Servers
@@ -65,7 +66,8 @@ Machine Name: Example
 Configured IP Address: 192.168.1.1
 Default Gateway: 192.168.1.1
 
-Purpose
+# Purpose
+
 I created this file to simplify the process of obtaining basic machine information in a clean format. By running the .bat file, you will have all the necessary information 
 about the machine that needs to be formatted. I hope you find it useful. Thank you!
 
